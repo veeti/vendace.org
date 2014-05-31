@@ -1,0 +1,55 @@
+body {
+    font-family: 'Fira Sans Regular', sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+
+    text-align: center;
+}
+
+div.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+div.title {
+    text-align: center;
+}
+
+div, img, p {
+    margin: 24px 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Oranienbaum Regular', serif;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+a {
+    color: #05126a;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: none;
+}
+
+/* Logo & Header */
+div#logo {
+    font-family: 'Oranienbaum Regular', serif;
+    text-align: center;
+    margin: 24px;
+}
+
+div#logo .tagline {
+    font-size: 48px;
+}
