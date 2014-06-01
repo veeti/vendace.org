@@ -1,5 +1,5 @@
 body {
-    font-family: 'Fira Sans Regular', sans-serif;
+    font-family: 'Lora', serif;
     font-size: 18px;
     line-height: 1.5;
 
@@ -22,7 +22,7 @@ div, img, p {
 }
 
 h1, h2, h3 {
-    font-family: 'Oranienbaum Regular', serif;
+    font-family: 'Oranienbaum', serif;
     font-weight: normal;
 }
 
@@ -45,7 +45,6 @@ a:hover {
 
 /* Logo & Header */
 div#logo {
-    font-family: 'Oranienbaum Regular', serif;
     text-align: center;
     margin: 24px;
 }
